@@ -16,7 +16,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"Message" : "Application deployed successfully to cloudhub via Azure Devops"
+	"Message" : "Application deployed successfully to cloudhub via Azure Devops by using azure pipelines"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
